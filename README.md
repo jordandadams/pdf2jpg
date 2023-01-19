@@ -21,9 +21,8 @@ instead of downloading something or using another tool why not code it myself :)
 ## Authors
 
 Contributors names and contact info
-
-ex. Jordan Adams  
-ex. [@DomPizzie](https://github.com/jordandadams)
+  
+ex. [@Jordan Adams](https://github.com/jordandadams)
 
 ## Version History
 
